@@ -1,0 +1,251 @@
+{
+  "pays": "Bhutan",
+  "drapeau": "🇧🇹",
+  "symbole": "🐉",
+  "titre": "Bhutan: Voyage au Cœur du Bonheur Brut",
+  "budget_total": "2900€",
+  "duree": "7 jours",
+  "temps_vol": "30h depuis Bruneau, etats unis avec escales",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Paro et Transfert à Thimphu",
+      "legende": "Après un long vol, atterrissez à Paro, l'unique aéroport international du Bhutan, niché au cœur de paysages montagneux époustouflants. La route vers Thimphu, la capitale, offre un premier aperçu de la sérénité bhutanaise. Profitez de cette journée pour vous acclimater en douceur à l'altitude et à l'atmosphère unique du pays.",
+      "lieu": "Paro / Thimphu",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Paro (PBH)</strong>: Admirez l'atterrissage spectaculaire dans la vallée de Paro, souvent considéré comme l'un des plus beaux et techniques au monde.",
+        "🚗 <strong>Transfert vers Thimphu</strong>: Laissez-vous guider à travers les paysages verdoyants et les villages pittoresques lors de ce trajet d'environ 1h30 vers la capitale.",
+        "🚶‍♂️ <strong>Balade légère dans Thimphu</strong>: Découvrez les rues animées de la capitale, observez la vie locale et imprégnez-vous de l'ambiance paisible de cette ville sans feux de circulation."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Altitude",
+          "texte": "Thimphu est à environ 2 334 mètres d'altitude. Prenez le temps de vous acclimater et hydratez-vous bien pour éviter le mal des montagnes."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🙏",
+      "titre": "Immersion Culturelle à Thimphu",
+      "legende": "Plongez au cœur de la culture bhutanaise en explorant les sites emblématiques de Thimphu. Entre spiritualité, artisanat et panoramas grandioses, cette journée vous révélera la richesse de l'héritage du Royaume du Dragon. Chaque visite est une invitation à la contemplation et à la compréhension de ce pays unique.",
+      "lieu": "Thimphu",
+      "activites": [
+        "🧘 <strong>Visite du Buddha Dordenma</strong>: Contemplez cette immense statue de Bouddha dominant la vallée, offrant une vue panoramique imprenable sur Thimphu et ses environs.",
+        "📜 <strong>Exploration du Mémorial Chorten</strong>: Joignez-vous aux pèlerins locaux pour faire le tour de ce stupa sacré, un lieu de prière et de recueillement central pour les Bhutanais.",
+        "🎨 <strong>Découverte de l'École d'Artisanat (Zorig Chusum)</strong>: Observez les jeunes apprentis perpétuer les 13 arts et métiers traditionnels du Bhutan, de la peinture à la sculpture sur bois."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Demandez toujours la permission avant de photographier des personnes, surtout dans les lieux de culte."
+        },
+        {
+          "symbole": "👗",
+          "titre": "Tenue vestimentaire",
+          "texte": "Prévoyez des vêtements respectueux (épaules et genoux couverts) pour la visite des monastères et dzongs."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Punakha: Vallée des Rivières Sacrées",
+      "legende": "Aventurez-vous vers la magnifique vallée de Punakha, l'ancienne capitale du Bhutan, réputée pour son climat plus doux et ses paysages luxuriants. Le trajet vous mènera à travers le spectaculaire col de Dochula, orné de 108 stupas, avant de découvrir l'impressionnant Punakha Dzong, un chef-d'œuvre architectural.",
+      "lieu": "Punakha",
+      "activites": [
+        "⛰️ <strong>Traversée du col de Dochula</strong>: Arrêtez-vous pour admirer les 108 stupas (Druk Wangyal Chortens) et, par temps clair, la vue imprenable sur les sommets himalayens.",
+        "🏰 <strong>Visite du Punakha Dzong</strong>: Explorez cette forteresse majestueuse, située de manière spectaculaire à la confluence de deux rivières, un symbole de l'architecture bhutanaise.",
+        "🚶‍♀️ <strong>Randonnée vers Chimi Lhakhang</strong>: Marchez à travers les rizières jusqu'au \"Temple de la Fertilité\", dédié au \"Fou Divin\", Drukpa Kunley, un lieu unique et plein d'anecdotes."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🌡️",
+          "titre": "Climat",
+          "texte": "Punakha est à une altitude plus basse (environ 1 200 m) que Thimphu, ce qui lui confère un climat plus chaud et subtropical."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Anecdote",
+          "texte": "Les symboles phalliques peints sur les maisons à Punakha sont une tradition pour éloigner les mauvais esprits et apporter la fertilité."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🖼️",
+      "titre": "Retour à Paro et Patrimoine Historique",
+      "legende": "Après avoir exploré les charmes de Punakha, reprenez la route vers la vallée de Paro, une région riche en histoire et en légendes. Cette journée sera dédiée à la découverte de son patrimoine culturel, entre musées fascinants et forteresses ancestrales, offrant un aperçu profond de l'âme bhutanaise.",
+      "lieu": "Paro",
+      "activites": [
+        "🚗 <strong>Retour vers Paro</strong>: Profitez à nouveau des paysages changeants lors du trajet de retour vers la vallée de Paro, d'une durée d'environ 3-4 heures.",
+        "🏛️ <strong>Visite du Musée National (Ta Dzong)</strong>: Explorez cette ancienne tour de guet transformée en musée, abritant une collection impressionnante d'artefacts bhutanais, d'œuvres d'art et de timbres.",
+        "🏯 <strong>Découverte du Rinpung Dzong (Paro Dzong)</strong>: Admirez cette imposante forteresse-monastère, un exemple magnifique de l'architecture bhutanaise, et son rôle central dans la vie religieuse et administrative."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Accès au Dzong",
+          "texte": "Le Rinpung Dzong est accessible par un pont en bois traditionnel, offrant de belles opportunités de photos."
+        },
+        {
+          "symbole": "🕰️",
+          "titre": "Histoire",
+          "texte": "Le Musée National offre un excellent aperçu de l'histoire et de la culture du Bhutan, des temps anciens à nos jours."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "⛰️",
+      "titre": "L'Ascension du Nid du Tigre (Taktsang)",
+      "legende": "Préparez-vous pour l'une des expériences les plus emblématiques du Bhutan: la randonnée jusqu'au monastère de Taktsang, plus connu sous le nom de Nid du Tigre. Accroché à flanc de falaise, ce site sacré offre non seulement une vue spectaculaire, mais aussi une profonde immersion spirituelle. C'est une journée exigeante mais incroyablement gratifiante.",
+      "lieu": "Paro",
+      "activites": [
+        "🚶‍♀️ <strong>Randonnée au Monastère de Taktsang (Nid du Tigre)</strong>: Entreprenez l'ascension vers ce monastère légendaire, perché à 3 120 mètres d'altitude, un pèlerinage inoubliable à travers forêts de pins et points de vue vertigineux.",
+        "🙏 <strong>Exploration du Nid du Tigre</strong>: Découvrez l'intérieur de ce complexe monastique sacré, où Guru Rinpoche aurait médité, et imprégnez-vous de son atmosphère mystique."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Équipement",
+          "texte": "Portez de bonnes chaussures de marche, prévoyez de l'eau et des en-cas. La randonnée dure environ 5-6 heures aller-retour."
+        },
+        {
+          "symbole": "🐎",
+          "titre": "Option",
+          "texte": "Il est possible de louer un poney pour la première partie de l'ascension jusqu'à la cafétéria, réduisant l'effort physique."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🌄",
+      "titre": "La Vallée Secrète de Haa",
+      "legende": "Échappez à la foule et découvrez la paisible vallée de Haa, l'une des régions les moins visitées du Bhutan, offrant une authenticité préservée. Le trajet spectaculaire via le col de Chele La, le plus haut col routier du pays, vous mènera à des paysages alpins et des villages traditionnels. Une journée pour apprécier la beauté brute et la tranquillité bhutanaise.",
+      "lieu": "Haa Valley",
+      "activites": [
+        "🚗 <strong>Traversée du col de Chele La</strong>: Montez au col routier le plus élevé du Bhutan (3 988 m), offrant des vues panoramiques sur la vallée de Paro et, par temps clair, sur le mont Jomolhari.",
+        "🏞️ <strong>Exploration de la Vallée de Haa</strong>: Découvrez cette vallée isolée, ses champs d'orge et de sarrasin, et ses maisons traditionnelles, offrant un aperçu de la vie rurale bhutanaise.",
+        "🧘 <strong>Visite des Lhakhang Karpo et Nagpo</strong>: Explorez les temples Blanc et Noir, deux des plus anciens temples de la vallée, imprégnés d'histoire et de spiritualité locale."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🌬️",
+          "titre": "Températures",
+          "texte": "Le col de Chele La peut être venteux et froid, même en saison sèche. Prévoyez des couches de vêtements chauds."
+        },
+        {
+          "symbole": "🤫",
+          "titre": "Authenticité",
+          "texte": "La vallée de Haa est moins développée pour le tourisme, offrant une expérience plus authentique et paisible."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🛫",
+      "titre": "Départ du Bhutan",
+      "legende": "Après une semaine riche en découvertes et en émotions, il est temps de quitter le Royaume du Dragon. Profitez d'un dernier petit-déjeuner bhutanais et des derniers instants pour admirer les paysages de la vallée de Paro avant votre transfert à l'aéroport. Emportez avec vous les souvenirs précieux de ce voyage unique au pays du Bonheur National Brut.",
+      "lieu": "Paro",
+      "activites": [
+        "🍳 <strong>Petit-déjeuner à l'hôtel</strong>: Savourez un dernier repas bhutanais, souvent composé de riz rouge, d'œufs et de légumes locaux.",
+        "🛍️ <strong>Derniers achats de souvenirs (optionnel)</strong>: Si le temps le permet, faites quelques emplettes de dernière minute pour des souvenirs artisanaux locaux.",
+        "🛫 <strong>Transfert à l'aéroport de Paro (PBH) et vol retour</strong>: Dites au revoir au Bhutan, emportant avec vous des souvenirs inoubliables de ce voyage exceptionnel."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les textiles tissés à la main, les thangkas (peintures religieuses) et les objets en bois sculpté sont des souvenirs populaires."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Les vols depuis Paro ont souvent lieu tôt le matin. Prévoyez un réveil matinal pour le transfert à l'aéroport."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "2000€/pers (Vol A/R classe économique depuis les États-Unis vers Paro, Bhutan, avec escales)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "0€/pers (Inclus dans le Forfait Journalier Durable (SDF) qui couvre un véhicule privé avec chauffeur)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "0€/pers (Inclus dans le Forfait Journalier Durable (SDF) qui couvre tous les repas en hôtels 3 étoiles ou restaurants locaux)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "0€/pers (Inclus dans le Forfait Journalier Durable (SDF) qui couvre l'hébergement en hôtels 3 étoiles)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "891€/pers (Comprend le Forfait Journalier Durable (SDF) de 651€, les frais de visa de 40€, et 200€ pour les entrées spécifiques et dépenses personnelles)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mars à mai et de septembre à novembre.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Le Bhutan est le seul pays au monde où le Bonheur National Brut (BNB) est une mesure officielle du développement, privilégiant le bien-être de sa population.",
+      "symbole": "😊"
+    },
+    {
+      "titre": "La population du Bhutan est d'environ 780 000 habitants, majoritairement bouddhistes, vivant en harmonie avec la nature et leurs traditions.",
+      "symbole": "👨‍👩‍👧‍👦"
+    },
+    {
+      "titre": "Le pays est constitutionnellement tenu de maintenir au moins 60% de sa superficie sous couverture forestière, ce qui en fait un puits de carbone et un havre de biodiversité.",
+      "symbole": "🌳"
+    },
+    {
+      "titre": "La vente de tabac est très réglementée et il est interdit de fumer dans les lieux publics, reflétant l'engagement du pays envers la santé et la spiritualité.",
+      "symbole": "🚭"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations officielles sur le tourisme au Bhutan",
+      "titre": "Tourism Council of Bhutan",
+      "url": "https://www.bhutan.travel/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Informations sur les vols vers le Bhutan",
+      "titre": "Drukair - Royal Bhutan Airlines",
+      "url": "https://www.drukair.com.bt/",
+      "symbole": "✈️"
+    },
+    {
+      "legende": "Détails et application pour le visa bhutanais",
+      "titre": "Bhutan Visa Information",
+      "url": "https://www.bhutan.travel/visa",
+      "symbole": "🛂"
+    }
+  ]
+}
